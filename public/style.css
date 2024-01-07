@@ -64,7 +64,7 @@ button:hover {
     color: #ecf0f1;
 }
 
-/* Media queries for responsiveness */
+
 @media screen and (max-width: 600px) {
     .container {
         padding: 10px;
@@ -75,9 +75,6 @@ button:hover {
         width: calc(100% - 20px);
     }
 }
-
-/* style.css */
-/* ... (Previous code) */
 
 .expense-container {
     display: flex;
